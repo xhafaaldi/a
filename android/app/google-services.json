@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "323624079889",
+    "project_id": "isave-84a45",
+    "storage_bucket": "isave-84a45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323624079889:android:353588469afb33687cd7b0",
+        "android_client_info": {
+          "package_name": "com.idev.isave"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIdNdZbCQIMgVKqQ0OyQt_el7oUlLgPo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
